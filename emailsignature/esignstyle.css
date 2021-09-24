@@ -1,0 +1,14 @@
+#contact {
+    background: #feeab0;
+
+    color: #873e23;
+    
+    float: left;
+    border-left: 2pt solid #873e23;
+
+    padding: .5em;
+}
+  
+p {
+    margin: .5px;
+} 
