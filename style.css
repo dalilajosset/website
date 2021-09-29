@@ -58,6 +58,7 @@ h3,
 h4,
 h5 {
   font-family: "Raleway", sans-serif;
+  text-align: center;
 }
 
 .center {
@@ -66,4 +67,5 @@ h5 {
   margin-right: auto;
   margin-top: 25px;
   width: 50%;
+  border-radius: 1.5em;
 }
