@@ -6,11 +6,6 @@ body {
   font-family: "Raleway", sans-serif;
   padding: 2em;
 }
-li {
-  background-color: #cc989c;
-  padding: 0.8em;
-  border-radius: 1em;
-}
 h1 {
   font-size: 40px;
   padding: 0.15em;
@@ -18,9 +13,7 @@ h1 {
   border-style: solid;
   border-radius: 0.5em;
 }
-h2,
-h3,
-h4 {
+h2 {
   font-size: x-large;
 }
 * {
