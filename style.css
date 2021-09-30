@@ -13,7 +13,10 @@ li {
 }
 h1 {
   font-size: 40px;
-  padding: 0;
+  padding: 0.15em;
+  background-color: #b1858b;
+  border-style: solid;
+  border-radius: 0.5em;
 }
 h2,
 h3,
